@@ -1,0 +1,2 @@
+# redirect
+untuk rederict aja
