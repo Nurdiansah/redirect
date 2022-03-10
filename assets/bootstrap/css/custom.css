@@ -1,0 +1,38 @@
+
+	.login-box {
+		margin: 5% auto;
+	}
+
+	.body {
+		background-image: url('../../../gambar/login.png');
+		-webkit-background-size: 100% 100%;
+  	 	-moz-background-size: 100% 100%;
+  		-o-background-size: 100% 100%;
+  		background-size: 100% 100%;
+	}
+	
+	.logo, .navbar {
+		background: #022eb1 !important;
+	}
+	
+	.login-box-body {
+		padding: 10px 20px 20px 20px !important;
+		color: black; 
+	}
+
+	.login-logo {
+		font-size: 30px;
+		margin-bottom: 20px;
+		color: white;
+	}
+
+	
+
+	.login-box-body h3 {
+		font-weight: bold;
+	}
+
+	.login-box-body img {
+		display: block;
+		margin: 15px auto;
+	}
